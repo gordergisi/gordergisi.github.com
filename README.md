@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Jekyll-Bootstrap
 
 The quickest way to start and publish your Jekyll powered blog. 100% compatible with GitHub pages
@@ -81,3 +80,6 @@ The documentation website at <http://jekyllbootstrap.com> is maintained at https
 # gordergisi.github.com
 Gor Dergisi Web Sitesi
 >>>>>>> 45ecf2786583dd89aa4ebd3d8609b1dd0ed54f1a
+=======
+# gordergisi.github.com
+Gor Dergisi Web Sitesi
